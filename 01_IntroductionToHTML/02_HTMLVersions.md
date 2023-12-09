@@ -25,5 +25,3 @@ HTML has evolved over the years with various versions, each introducing new feat
 HTML5 marked a shift towards creating more dynamic and interactive web applications. Unlike previous versions, HTML5 doesn't require closing all tags and supports self-closing tags (e.g., `<img>`).
 
 **6. HTML Living Standard:** The HTML Living Standard is an ongoing effort to maintain and improve HTML. It's managed by the World Wide Web Consortium (W3C) and the Web Hypertext Application Technology Working Group (WHATWG). Rather than having distinct versions like HTML4 or XHTML, HTML is now seen as an evolving, living standard with continuous updates and improvements.
-
-As of my knowledge cutoff in September 2021, HTML5 and the HTML Living Standard are the current versions of HTML. It's recommended to stay up to date with web development communities and resources for the latest advancements beyond that point.
